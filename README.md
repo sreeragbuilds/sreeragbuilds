@@ -24,8 +24,12 @@ I build full-stack web apps with **.NET** — clean architecture, solid tests, a
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**Testing:** NUnit · xUnit · bUnit  **Deploy:** Render
+**Testing:** NUnit · xUnit · bUnit<br>
+**Deploy:** Render
 
 ### 📊 Stats
 
-![GitHub streak](https://streak-stats.demolab.com?user=sreeragbuilds&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sreeragbuilds&hide_border=true&theme=github-dark-blue">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=sreeragbuilds&hide_border=true&theme=default">
+</picture>
