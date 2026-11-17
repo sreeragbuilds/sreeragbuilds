@@ -28,4 +28,4 @@ I build full-stack web apps with **.NET** — clean architecture, solid tests, a
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeragbuilds&show_icons=true&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=sreeragbuilds&hide_border=true)
